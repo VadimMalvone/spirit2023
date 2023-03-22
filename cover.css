@@ -1,0 +1,26 @@
+#napoli{
+    width: 100%;
+}
+
+#text1{
+    margin-top: 80px;
+}
+.sub_class{
+    color: rgba(2, 2, 2, 0.57);
+}
+.container{
+    align-self:center;
+    margin-top:50px;
+}
+.colored_link{
+    color: rgba(2, 2, 1, 0.66);
+    text-decoration: none;
+}
+h6 {
+    display: inline-block;
+    padding: 0.2em 0.5em;
+}
+
+.university {
+    color: #999; /* gray color */
+}
